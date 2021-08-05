@@ -1,0 +1,29 @@
+.welcome{
+    background-color: yellow;
+    font-style: italic;
+    font-size: xx-large;
+    text-align: center;
+    text-shadow: 20px;
+}
+h2{
+    text-align: center;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.about-us{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.contact{
+
+}
+#comment{
+
+}
+.form-control{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-position:center;
+}
